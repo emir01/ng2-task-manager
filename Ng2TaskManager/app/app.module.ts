@@ -5,6 +5,11 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
+import "font-awesome-webpack";
+
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 @NgModule({
   declarations: [
     AppComponent
